@@ -1,0 +1,8 @@
+FanFest 2026 — Hosted Application Link
+========================================
+
+Replace this line with your live deployment URL after deploying to Vercel/Netlify/Render, e.g.:
+
+https://your-project-name.vercel.app
+
+Deployment steps are in README.md under "Deployment (Vercel — recommended)".
